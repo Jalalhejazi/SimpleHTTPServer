@@ -1,0 +1,23 @@
+{
+  "name": "SimpleHTTPServer",
+  "main": "SimpleHTTPServer.js",
+  "version": "0.1.2",
+  "homepage": "https://github.com/Jalalhejazi/SimpleHTTPServer",
+  "authors": [
+    "Jalal Hejazi <Jalal.Hejazi@gmail.com>"
+  ],
+  "description": "SimpleHTTPServer using nodejs (similar to python -m SimpleHTTPServer)",
+  "keywords": [
+    "HTTP-SERVER",
+    "HTTP-GET",
+    "HTTP-POST"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
