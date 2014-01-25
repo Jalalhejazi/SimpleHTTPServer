@@ -53,7 +53,9 @@ HttpServer.prototype.start = function (port) {
 
     console.log('Simple Http Server running at http://localhost:' + port + '/ ');
     console.log('This WebServer support HTTP-GET and HTTP-POST ');
-    console.log('To start on port 1234 use>  node ./web-server.js 1234 ');
+    
+    console.log('To start on defaul port use>  node ./SimpleHTTPServer.js ');
+    console.log('To start on port 1234   use>  node ./SimpleHTTPServer.js 1234 ');
  
     console.log('index.html is the default entry ');
     console.log('app/data/db.json is the default folder for any json data');
